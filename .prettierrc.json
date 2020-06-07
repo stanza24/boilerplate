@@ -1,0 +1,7 @@
+{
+    "arrowParens": "always",
+    "bracketSpacing": true,
+    "endofline": "lf",
+    "tabWidth": 4,
+    "printWidth": 120
+}
