@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./",
+        "diagnostics": true,
+        "experimentalDecorators": true,
+        "jsx": "react",
+        "lib": ["es6", "es7", "dom"],
+        "module": "esnext",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "pretty": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "target": "esnext",
+    },
+    "include": ["src"],
+    "exclude": ["build", "node_modules"]
+}
